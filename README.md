@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MANTESH-dot
+- 👋 Hi, I’m @MANTESH
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Git
